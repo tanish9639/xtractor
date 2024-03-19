@@ -1,0 +1,90 @@
+/* Desktop CSS */
+body{
+    margin:0%;
+    padding:0%;
+}
+li a { color:white !important;
+margin: 0px 30px 0px 30px;
+transition: all ease-in-out .5s;}
+.purple{
+    background-color:#1F2132;
+}
+.hero-image{
+  background-color: #2D2F3E;
+}
+
+.navbar-brand{
+  color:orange !important;
+}
+.p1{
+  text-align:justify;
+  background-color: red;
+}
+.mobile{
+    display: none;
+}
+.banner-head{
+  font-size:60px;
+
+}
+#hero-txt{
+  color:white;
+}
+.bnr-btn{
+  margin:5px;
+  padding:10px;
+  border: 0px;
+  border-radius: 5px;
+  transition: ease .5s;
+  font-weight: bold;
+}
+#p1{
+  text-align: justify;
+}
+
+
+.bnr-btn:hover{
+  color:white;
+  background: black;
+}
+#hero-txt .banner-head{
+  font-size:50px;
+}
+.orange{
+  border-bottom:3px solid orange;
+}
+
+.large{
+  font-size:30px;
+}
+.services{
+  padding:10px;
+}
+
+
+.card-text{
+  color: black !important;
+}
+
+.contact-us h2{
+  margin-bottom: 50px;
+}
+
+.contact-logo i
+{
+  font-size:50px;
+  line-height:70px;
+}
+
+.float-left{
+  float: left;
+}
+
+.contact-txt p{
+  margin-top:15px;
+  color:grey;
+}
+
+.form input{
+  line-height:50px;
+}

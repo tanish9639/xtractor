@@ -1,0 +1,290 @@
+
+/* Desktop CSS */
+body{
+  margin:0%;
+  padding:0%;
+}
+li a { color:white !important;
+margin: 0px 30px 0px 30px;
+transition: all ease-in-out .5s;}
+.purple{
+  background-color:#1F2132;
+}
+
+.navbar-brand{
+color:orange !important;
+}
+.mobile{
+  display: none;
+}
+.banner-head{
+font-size:60px;
+
+}
+
+#hero-txt{
+color:white;
+}
+.bnr-btn{
+margin:5px;
+padding:10px;
+border: 0px;
+border-radius: 5px;
+transition: ease .5s;
+font-weight: bold;
+}
+
+.bnr-btn:hover{
+color:white;
+background: black;
+}
+#hero-txt .banner-head{
+font-size:50px;
+}
+.orange{
+border-bottom:3px solid orange;
+}
+
+.large{
+font-size:30px;
+}
+.services{
+padding:10px;
+}
+
+.card-text{
+color: black !important;
+}
+
+.contact-us h2{
+margin-bottom: 50px;
+}
+
+.contact-logo i
+{
+font-size:50px;
+line-height:70px;
+}
+
+.float-left{
+float: left;
+}
+
+.contact-txt p{
+margin-top:15px;
+color:grey;
+}
+
+.form input{
+line-height:50px;
+}
+/*Merging css*/
+
+/* Desktop CSS */
+body{
+  margin:0%;
+  padding:0%;
+}
+li a { color:white !important;
+margin: 0px 30px 0px 30px;
+transition: all ease-in-out .5s;}
+.purple{
+  background-color:#1F2132;
+}
+
+.navbar-brand{
+color:orange !important;
+}
+.mobile{
+  display: none;
+}
+.banner-head{
+font-size:60px;
+
+}
+#hero-txt{
+color:white;
+}
+.bnr-btn{
+margin:5px;
+padding:10px;
+border: 0px;
+border-radius: 5px;
+transition: ease .5s;
+font-weight: bold;
+}
+
+.bnr-btn:hover{
+color:white;
+background: black;
+}
+#hero-txt .banner-head{
+font-size:50px;
+}
+.orange{
+border-bottom:3px solid orange;
+}
+
+.large{
+font-size:30px;
+}
+
+
+.card-text{
+color: black !important;
+}
+
+.contact-us h2{
+margin-bottom: 50px;
+}
+
+.contact-logo i
+{
+font-size:50px;
+line-height:70px;
+}
+
+.float-left{
+float: left;
+}
+
+.contact-txt p{
+margin-top:15px;
+color:grey;
+}
+
+.form input{
+line-height:50px;
+}
+
+.merge-head{
+margin-top:50px;
+}
+
+.merge-head h2{
+font-weight: 100;
+font-size:20px;
+}
+
+.dibba{
+background-color: #F98A3A;
+opacity: 80%;
+height: 400px;
+padding:20px;
+margin:10px;
+border-radius: 34px;
+/*border: 3px dotted whitesmoke;*/
+}
+.dibba2{
+border : 3px dotted whitesmoke;
+height: 360px;
+border-radius: 34px;
+}
+
+.input-file{
+padding:15%;
+color: white;
+align-items: center;
+margin-top: -3%;
+
+}
+input[type="file"]
+{
+margin-left:30%;
+border: 1px solid black;
+padding:10px;
+border-radius:5px;
+box-shadow: 5px 5px 10px #2D2F3E;
+}
+.help-desk{
+background-color: #2D2F3E;
+padding:50px;
+}
+
+.details h6{
+color: white;
+font-weight: 800;
+font-size:32px;
+}
+.details p{
+color: white;
+margin:15px 0px 15px 0px;
+}
+
+.details{
+padding-top:60px;
+}
+.rate{
+padding: 50px;
+}
+.star-button {
+font-size: 24px;
+cursor: pointer;
+color: gray;
+}
+.star-button.checked {
+color: gold;
+}
+/*Footer*/
+footer {
+  background-color: #2D2F3E;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer-section {
+  flex: 1;
+  padding: 20px;
+  padding-left: 100px;
+}
+
+.footer-section h2 {
+  font-size: 18px;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.footer-section ul li a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s;
+}
+
+.footer-section ul li a:hover {
+  color: #66b3e4;
+}
+
+.xtra{
+  padding-left: 20px;
+
+}
+
+#home{
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: black;
+  opacity: 59%;
+  margin-top: 1%;
+  margin-left: 0.5%;
+  
+}
+#home p,a:link{
+  text-decoration: none;
+}
+#home p,a:hover{
+  color: orange;
+  text-decoration: none;
+}
